@@ -1,0 +1,20 @@
+Ibmec
+
+ZERO-RATING
+O zero-rating, também conhecido como “tarifa zero” em português, refere-se à prática de permitir que certos conteúdos ou serviços de internet sejam acessados sem custo de dados para os usuários. Isso pode ocorrer quando um provedor de serviços de internet ou uma plataforma firma parcerias com determinados aplicativos ou sites, permitindo que os usuários acessem esses serviços sem que isso consuma sua franquia de dados. Embora isso possa beneficiar os consumidores ao fornecer acesso gratuito a certos recursos, também levanta preocupações sobre neutralidade da rede e potencialmente limitar o acesso a conteúdos fora dessa seleção privilegiada.
+
+JURIMETRIA 
+A jurimetria é uma abordagem que utiliza métodos quantitativos e análise de dados para examinar e compreender aspectos do sistema jurídico, como padrões de decisões judiciais, comportamento de tribunais e resultados de casos legais. Ela envolve a aplicação de estatísticas, modelagem e tecnologia da informação para analisar dados legais e auxiliar na tomada de decisões judiciais mais informadas e eficientes. A jurimetria pode oferecer insights sobre tendências, previsões de resultados de casos e até mesmo ajudar na formulação de estratégias legais.
+
+SISTEMA DE ARQUIVOS
+Um sistema de arquivos é uma estrutura organizacional que gerencia a maneira como os dados são armazenados, organizados, acessados e manipulados em um dispositivo de armazenamento, como um disco rígido ou SSD. Ele define como os arquivos são nomeados, armazenados em diretórios hierárquicos e protegidos com permissões de acesso. Os sistemas de arquivos são essenciais para o funcionamento dos sistemas operacionais, pois permitem que os usuários armazenem e recuperem informações de maneira eficiente. Diferentes sistemas de arquivos têm características únicas, como tamanhos máximos de arquivo, capacidade de recuperação de dados, suporte a permissões de acesso e outros recursos que os tornam adequados para diferentes tipos de dispositivos e aplicações.
+
+BANCO DE DADOS
+Um banco de dados é uma coleção organizada de informações ou dados que são armazenados de maneira estruturada para permitir o acesso, gerenciamento e recuperação eficientes. Ele é projetado para armazenar grandes quantidades de dados, que podem variar desde informações simples até conjuntos complexos e inter-relacionados. Os bancos de dados são usados para registrar, consultar, atualizar e analisar dados de maneira consistente e segura. Eles consistem em tabelas que contêm registros (linhas) e campos (colunas) que definem os tipos de dados e a estrutura dos dados armazenados. Diferentes sistemas de gerenciamento de bancos de dados (SGBDs) oferecem funcionalidades variadas, como garantia de integridade dos dados, recuperação de informações em alta velocidade e suporte a consultas complexas. Bancos de dados desempenham um papel crucial em muitas aplicações, desde sistemas de gerenciamento empresarial até redes sociais e análises de big data.
+
+SERVIDOR (computação)
+Um servidor na computação é um sistema de computador ou software que fornece serviços, recursos ou dados para outros dispositivos chamados clientes. Ele desempenha um papel central na rede, gerenciando o acesso e a distribuição de informações. Os servidores podem executar uma variedade de funções, como hospedar sites, armazenar e compartilhar arquivos, gerenciar emails, executar aplicativos ou serviços específicos, como bancos de dados.
+
+Os servidores são otimizados para fornecer alta disponibilidade, desempenho e segurança. Eles são configurados para lidar com múltiplas solicitações simultaneamente, usando hardware robusto e sistemas operacionais otimizados. Dependendo de sua finalidade, os servidores podem ser físicos (máquinas dedicadas) ou virtuais (executados em um ambiente virtualizado compartilhado).
+
+Os servidores desempenham um papel fundamental na infraestrutura de tecnologia da informação, permitindo a comunicação e colaboração eficazes em redes, bem como o fornecimento de serviços essenciais para usuários e sistemas.
