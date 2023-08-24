@@ -1,5 +1,7 @@
 Ibmec
 
+TAREFA 1
+
 ZERO-RATING
 O zero-rating, também conhecido como “tarifa zero” em português, refere-se à prática de permitir que certos conteúdos ou serviços de internet sejam acessados sem custo de dados para os usuários. Isso pode ocorrer quando um provedor de serviços de internet ou uma plataforma firma parcerias com determinados aplicativos ou sites, permitindo que os usuários acessem esses serviços sem que isso consuma sua franquia de dados. Embora isso possa beneficiar os consumidores ao fornecer acesso gratuito a certos recursos, também levanta preocupações sobre neutralidade da rede e potencialmente limitar o acesso a conteúdos fora dessa seleção privilegiada.
 
@@ -19,12 +21,16 @@ Os servidores são otimizados para fornecer alta disponibilidade, desempenho e s
 
 Os servidores desempenham um papel fundamental na infraestrutura de tecnologia da informação, permitindo a comunicação e colaboração eficazes em redes, bem como o fornecimento de serviços essenciais para usuários e sistemas.
 
+TAREFA 2
+
 A notícia destaca a abertura de um inquérito pelo MPF para investigar a possível negação de aposentadorias pelo INSS devido a um sistema automatizado. Isso suscita preocupações sobre a utilização de algoritmos em processos de decisão governamentais, levando à necessidade de garantir transparência e adequada análise de mérito.
 
 A análise de crédito pode usar algoritmos. Instituições financeiras e empresas usam algoritmos para avaliar o risco de crédito dos solicitantes, considerando fatores como histórico de pagamento, dívidas pendentes, renda e outros indicadores financeiros.
 A negativa de crédito precisa ser justificada. Em muitos países, como nos EUA, a Fair Credit Reporting Act exige que os credores forneçam aos consumidores informações sobre os motivos que levaram à negação de crédito. Isso permite que os consumidores entendam a decisão e possam corrigir imprecisões nos seus registros.
 
 Uma Rede Neural Artificial (RNA) é um modelo de aprendizado de máquina inspirado na estrutura do cérebro humano. Consiste em várias camadas interconectadas de neurônios artificiais, que processam informações e aprendem padrões complexos a partir dos dados. Redes neurais são usadas em reconhecimento de padrões, visão computacional e processamento de linguagem natural.
+
+TAREFA 3
 
 A LGPD (Lei Geral de Proteção de Dados) é uma legislação brasileira que estabelece regras sobre a coleta, armazenamento, tratamento e compartilhamento de dados pessoais. Data Centers do Brasil são empresas que fornecem serviços de armazenamento e processamento de dados. A relação entre eles está na necessidade de conformidade com a LGPD ao lidar com dados pessoais, o que inclui garantir medidas de segurança, consentimento adequado e transparência no tratamento desses dados, seja por parte das empresas que utilizam os serviços dos Data Centers ou pelas próprias empresas que operam esses centros de dados. A LGPD impacta diretamente como os dados são gerenciados e protegidos nos Data Centers do Brasil para garantir a privacidade e os direitos dos indivíduos.
 
