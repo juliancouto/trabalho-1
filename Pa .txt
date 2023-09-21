@@ -50,3 +50,31 @@ Lembre-se de que mesmo dados considerados públicos podem conter informações q
 
 Exemplo de formato proprietario: Microsoft Word (.docx): Um formato de arquivo proprietário usado para documentos de texto no Microsoft Word.
 Exemlo de formato aberto: JavaScript Object Notation (.json): Um formato de arquivo que armazena dados em formato legível por máquina e é amplamente usado para comunicação entre aplicativos web.
+
+TAREFA 4
+
+1. Python: é uma linguagem de programação interpretada de alto nível, conhecida por sua simplicidade e legibilidade. É amplamente usado em desenvolvimento web, ciência de dados e automação.
+
+python
+# Exemplo mínimo em Python: Imprimir "Olá, mundo!"
+print("Olá, mundo!")
+
+
+2. JavaScript: é uma linguagem de programação de alto nível usada principalmente para desenvolvimento web, tornando as páginas da web interativas.
+
+javascript
+// Exemplo mínimo em JavaScript: Exibir "Olá, mundo!" em um navegador
+console.log("Olá, mundo!");
+
+
+3. C++: é uma linguagem de programação de baixo nível usada para desenvolvimento de sistemas e aplicativos de alto desempenho.
+
+cpp
+// Exemplo mínimo em C++: Imprimir "Olá, mundo!" no console
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Olá, mundo!" << endl;
+    return 0;
+}
